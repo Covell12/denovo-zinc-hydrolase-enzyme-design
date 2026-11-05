@@ -14,3 +14,4 @@ Miniconda3-*.sh
 
 # keep the small, meaningful stuff:
 # inputs/, backbones/, results/, and all scripts
+folded_test/
