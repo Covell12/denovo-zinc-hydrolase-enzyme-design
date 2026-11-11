@@ -21,10 +21,11 @@ nitrogens and one threonine oxygen arranged around a zinc ion.
 | Sequence design | LigandMPNN | 20 → 320 sequences |
 | Structure prediction | Boltz-2 | 60 → 5 passing |
 
-A design passed if Boltz-2 gave it pLDDT ≥ 80, its predicted structure fell
-within 2.0 Å of the proposed backbone, exactly three histidines coordinated
-the zinc, and no histidine nitrogen sat more than 0.30 Å from its target
-position.
+In order to pass, a design had to satisfy four conditions: it required a
+confidence score of at least 80 from Boltz-2, Boltz-2's predicted structure
+had to be within 2.0 Å of the backbone that RFdiffusion2 had proposed,
+the three histidines had to surround the zinc ion, and the histidine nitrogens had
+to deviate no farther than 0.30 Å from their positions in the target motif.
 
 ## Results
 
