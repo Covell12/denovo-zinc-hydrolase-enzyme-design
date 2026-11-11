@@ -1,4 +1,0 @@
-core 0.153
-full 0.817
-thr_design 5.13
-thr_native 3.83
