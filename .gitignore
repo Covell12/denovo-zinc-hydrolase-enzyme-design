@@ -4,14 +4,10 @@
 __pycache__/
 *.pyc
 
-# bulk outputs: too large, regenerable
 folded/
 fasta/
 sequences/*/
 
-# installers
 Miniconda3-*.sh
 
-# keep the small, meaningful stuff:
-# inputs/, backbones/, results/, and all scripts
 folded_test/
