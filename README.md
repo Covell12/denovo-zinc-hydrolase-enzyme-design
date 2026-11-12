@@ -57,4 +57,10 @@ Including the threonine, the match is 0.817 Å, however, the threonine oxygen la
 
 NVIDIA GeForce RTX 4080 SUPER; it ran about 11 hours total (majority RFdiffusion2 runtime, which lasted for 9 h 36 m).
 
+### Design labels
+
+The paper names designs `ZH⟨backbone⟩-⟨sequence⟩` in table 2; these proteins correspond to the following files: ZH14-1,
+ZH14-4, ZH14-5 and ZH14-6 are `bias_cond0_14_s1`, `_s4`, `_s5` and `_s6`;
+ZH28-5 is `nobias_cond0_28_s5`.
+
 Made by Covell Bernstein as a supplement to an 8th grade history research paper. Thanks for your interest!
