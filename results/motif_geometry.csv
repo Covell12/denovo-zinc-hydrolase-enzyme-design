@@ -1,6 +1,5 @@
 design,residues,zinc,n_coord,d1,d2,d3,max_d_dev,max_ang_dev,thr_og1,blocked,blocking_atom,pass
 run_znhydrolase_cond0_0-atomized-bb-False,128,1,3,2.03,2.06,2.07,0.04,5.5,3.81,1,ALA40:O@2.5,0
-run_znhydrolase_cond0_0-atomized-bb-False,128,1,3,2.03,2.06,2.07,0.04,5.5,3.81,1,ALA40:O@2.5,0
 run_znhydrolase_cond0_1-atomized-bb-False,128,1,3,2.05,2.06,2.07,0.04,1.1,3.82,0,,1
 run_znhydrolase_cond0_10-atomized-bb-False,128,1,3,2.02,2.05,2.51,0.48,6.1,3.81,1,HIS57:CE1@2.67,0
 run_znhydrolase_cond0_11-atomized-bb-False,128,1,3,2.02,2.08,2.33,0.3,6.2,3.81,0,,0
